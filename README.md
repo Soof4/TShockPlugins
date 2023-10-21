@@ -32,3 +32,6 @@
 
 + ### [Emojifier](https://github.com/Soof4/Emojifier)
      In-game chat emoji plugin.
+
++ ### [DisableRevenge](https://github.com/Soof4/DisableRevenge)
+     A TShock plugin that disables mobs picking up coins on the networking side.
