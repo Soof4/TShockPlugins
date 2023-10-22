@@ -34,4 +34,7 @@
      In-game chat emoji plugin.
 
 + ### [DisableRevenge](https://github.com/Soof4/DisableRevenge)
-     A TShock plugin that disables mobs picking up coins on the networking side.
+     Disables mobs picking up coins on the networking side.
+
++ ### [RandomDrops](https://github.com/Soof4/RandomDrops)
+     Makes mobs drop random loot.
