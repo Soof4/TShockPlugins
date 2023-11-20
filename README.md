@@ -39,5 +39,5 @@
 + ### [RandomDrops](https://github.com/Soof4/RandomDrops)
      Makes mobs drop random loot.
 
-+ ### [BridgeBuilder](https://Soof4/BridgeBuilder)
++ ### [BridgeBuilder](https://github.com/Soof4/BridgeBuilder)
      Instant bridge builder.
