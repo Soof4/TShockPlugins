@@ -41,3 +41,6 @@
 
 + ### [BridgeBuilder](https://github.com/Soof4/BridgeBuilder)
      Instant bridge builder.
+
++ ### [PvPer](https://github.com/Soof4/PvPer)
+     Adds a system for PvP battles.
