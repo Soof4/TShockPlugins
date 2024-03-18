@@ -44,3 +44,6 @@
 
 + ### [PvPer](https://github.com/Soof4/PvPer)
      Adds a system for PvP battles.
+     
++ ### [TheObserver](https://github.com/Soof4/TheObserver)
+     An anti-cheat plugin that tries to detect suspicious item activities.
