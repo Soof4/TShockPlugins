@@ -47,3 +47,6 @@
      
 + ### [TheObserver](https://github.com/Soof4/TheObserver)
      An anti-cheat plugin that tries to detect suspicious item activities.
+  
++ ### [SignInSign](https://github.com/Soof4/SignInSign)
+     SignInSign turns logging in and registering command process into UI process with sign interface.
