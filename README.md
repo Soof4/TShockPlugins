@@ -23,6 +23,9 @@
 
 + ### [SFactions](https://github.com/Soof4/SFactions)
      Factions plugin with abilities.
+  
++ ### [SFactionsTCRConnector](https://github.com/Soof4/SFactionsTCRConnector)
+     A connector plugin that allows you to show faction names on the bridge when using TerrariaChatRelay 
 
 + ### [ComfyEconomy](https://github.com/Soof4/ComfyEconomy)
      Economy plugin with shop signs and mines.
