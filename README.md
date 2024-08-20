@@ -7,14 +7,17 @@
      Let's players trade items with the server.
 
 + ### [Bagger](https://github.com/Soof4/Bagger)
-     Let's players get bags for the bosses they've missed. 
+     Let's players get bags for the bosses they've missed.
++ ### [BossManager](https://github.com/Soof4/BossManager)
+     Enables/disables boss spawns, with some other options included. <br>
+     **Note:** Creator of this plugin is @oz5581
 
 + ### [PlaytimeRewards](https://github.com/Soof4/PlaytimeRewards)
-     Gives players rewards based on how much time they've played on the server. 
+     Gives players rewards based on how much time they've played on the server.
 
 + ### [Replenisher](https://github.com/Soof4/Replenisher)
      Replenishes world resources. <br>
-     _**Note**: Original creator of this plugin is [@omni-](https://github.com/omni-)_
+     **Note:** Creator of this plugin is @omni-
 
 + ### [Abilities](https://github.com/Soof4/Abilities)
      This is a dependency that adds various abilities. <br>
