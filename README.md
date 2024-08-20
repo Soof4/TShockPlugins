@@ -10,14 +10,14 @@
      Let's players get bags for the bosses they've missed.
 + ### [BossManager](https://github.com/Soof4/BossManager)
      Enables/disables boss spawns, with some other options included. <br>
-     **Note:** Creator of this plugin is @oz5581
+     _**Note:** Creator of this plugin is [@oz5581](https://github.com/oz5581)_
 
 + ### [PlaytimeRewards](https://github.com/Soof4/PlaytimeRewards)
      Gives players rewards based on how much time they've played on the server.
 
 + ### [Replenisher](https://github.com/Soof4/Replenisher)
      Replenishes world resources. <br>
-     **Note:** Creator of this plugin is @omni-
+     _**Note:** Creator of this plugin is [@omni-](https://github.com/omni-)_
 
 + ### [Abilities](https://github.com/Soof4/Abilities)
      This is a dependency that adds various abilities. <br>
