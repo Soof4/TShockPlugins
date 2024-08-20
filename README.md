@@ -8,6 +8,7 @@
 
 + ### [Bagger](https://github.com/Soof4/Bagger)
      Let's players get bags for the bosses they've missed.
+
 + ### [BossManager](https://github.com/Soof4/BossManager)
      Enables/disables boss spawns, with some other options included. <br>
      _**Note:** Creator of this plugin is [@oz5581](https://github.com/oz5581)_
@@ -56,3 +57,7 @@
   
 + ### [SignInSign](https://github.com/Soof4/SignInSign)
      SignInSign turns logging in and registering command process into UI process with sign interface.
+
++ ### [ViewInventory](https://github.com/Soof4/ViewInventory)
+     Shows players' inventories in chat. <br>
+     _**Note:** Creator of this plugin is [@skywhale-zhi](https://github.com/skywhale-zhi)_
