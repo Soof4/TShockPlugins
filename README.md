@@ -1,5 +1,7 @@
 ## This is a list of TShock plugins I've made or updated
 
+If you want to read this in another language: [Spanish](https://github.com/Soof4/TShockPlugins/blob/main/README_SPANISH.md)
+
 + ### [PrimeBombToMissile](https://github.com/Soof4/PrimeBombToMissile)
      Spawns missiles instead of Prime bombs.
 
