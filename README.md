@@ -5,7 +5,7 @@ If you want to read this in another language: [Spanish](https://github.com/Soof4
 + ### [PrimeBombToMissile](https://github.com/Soof4/PrimeBombToMissile)
      Spawns missiles instead of Prime bombs.
 
-+ ### [ServerTrade](https://github.com/Soof4/ServerTrade)
++ ### [ServerTrade (Development Dropped)](https://github.com/Soof4/ServerTrade)
      Let's players trade items with the server.
 
 + ### [Bagger](https://github.com/Soof4/Bagger)
@@ -57,7 +57,7 @@ If you want to read this in another language: [Spanish](https://github.com/Soof4
 + ### [TheObserver](https://github.com/Soof4/TheObserver)
      An anti-cheat plugin that tries to detect suspicious item activities.
   
-+ ### [SignInSign](https://github.com/Soof4/SignInSign)
++ ### [SignInSign (Development Dropped)](https://github.com/Soof4/SignInSign)
      SignInSign turns logging in and registering command process into UI process with sign interface.
 
 + ### [ViewInventory](https://github.com/Soof4/ViewInventory)
