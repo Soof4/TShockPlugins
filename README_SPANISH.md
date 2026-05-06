@@ -5,7 +5,7 @@
 + ### [PrimeBombToMissile](https://github.com/Soof4/PrimeBombToMissile)
      Genera misiles en lugar de bombas principales.
 
-+ ### [ServerTrade](https://github.com/Soof4/ServerTrade)
++ ### [ServerTrade (El desarrollo se detuvo)](https://github.com/Soof4/ServerTrade)
      Permite a los jugadores Tradear o intercambiar.
 
 + ### [Bagger](https://github.com/Soof4/Bagger)
@@ -57,7 +57,7 @@
 + ### [TheObserver](https://github.com/Soof4/TheObserver)
      Es un anti-cheat plugin Para Vijilar a tramposos que multiplican items etc.
   
-+ ### [SignInSign](https://github.com/Soof4/SignInSign)
++ ### [SignInSign (El desarrollo se detuvo)](https://github.com/Soof4/SignInSign)
      SignInSign convierte el proceso de comando de inicio de sesión y registro en un proceso de interfaz de usuario con interfaz de Firmar tu contraseña.
 
 + ### [ViewInventory](https://github.com/Soof4/ViewInventory)
